@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Blackout-Midnight';
+    src: url('../fonts/blackout/blackout_midnight-webfont.eot');
+    src: url('../fonts/blackout/blackout_midnight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blackout/blackout_midnight-webfont.woff2') format('woff2'),
+         url('../fonts/blackout/blackout_midnight-webfont.woff') format('woff'),
+         url('../fonts/blackout/blackout_midnight-webfont.ttf') format('truetype'),
+         url('../fonts/blackout/blackout_midnight-webfont.svg#league_spartanbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Blackout-Sunrise';
+    src: url('../fonts/blackout/blackout_sunrise-webfont.eot');
+    src: url('../fonts/blackout/blackout_sunrise-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blackout/blackout_sunrise-webfont.woff2') format('woff2'),
+         url('../fonts/blackout/blackout_sunrise-webfont.woff') format('woff'),
+         url('../fonts/blackout/blackout_sunrise-webfont.ttf') format('truetype'),
+         url('../fonts/blackout/blackout_sunrise-webfont.svg#league_spartanbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Blackout-Two-Am';
+    src: url('../fonts/blackout/blackout_two_am-webfont.eot');
+    src: url('../fonts/blackout/blackout_two_am-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blackout/blackout_two_am-webfont.woff2') format('woff2'),
+         url('../fonts/blackout/blackout_two_am-webfont.woff') format('woff'),
+         url('../fonts/blackout/blackout_two_am-webfont.ttf') format('truetype'),
+         url('../fonts/blackout/blackout_two_am-webfont.svg#league_spartanbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

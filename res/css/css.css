@@ -1,0 +1,76 @@
+
+html, body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background: white;
+  display: flex;
+  overflow: hidden;
+}
+
+canvas{
+  position: absolute;
+  left: 0;
+  top: 0;
+
+}
+
+#left, #right{
+  margin: 0;
+  padding:0;
+  width: 50%;
+  height: 100%;
+  background: rgba(0,0,0,0);
+  z-index: 1;
+}
+
+#left{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 25%;
+  justify-content: center;
+}
+
+h1{
+  font-size: 2.5em;
+}
+
+#left h1, #left h2, #left h3{
+  padding: 0;
+  margin-top: 0 auto;
+  margin-bottom: 0 auto;
+  text-align: right;
+  align-content: space-around;
+  border-bottom: 1px solid white;
+  font-family: 'Poiret One', cursive;
+}
+
+#left h1 a, #left h2 a, #left h3 a{
+  text-decoration: none;
+  color: white;
+}
+
+left h1 a:hover, #left h2 a:hover, #left h3 a:hover{
+  text-shadow: 1px 1px 2px yellow;
+}
+
+#right h1, #right h2, #right h3{
+  width: 100%;
+  font-family: 'Poiret One', cursive;
+  text-align: left;
+  border-bottom: 1px solid black;
+}
+
+#right{
+  padding: 5em;
+  margin-left: 20em;
+  color: black;
+}
+
+svg{
+  height: 100%;
+  width: 10%;
+}
